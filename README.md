@@ -1,10 +1,11 @@
+[![Twitter: Azukimochi25](https://img.shields.io/twitter/follow/azukimochi25?style=social)](https://twitter.com/azukimochi25)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azukimochi&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Azukimochi&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Azukimochi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Azukimochi&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Azukimochi/Azukimochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
